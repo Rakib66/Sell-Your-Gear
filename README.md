@@ -1,4 +1,19 @@
-# PortFolio_Website
-Complete Portfolio Website with Bootstrap - HTML/CSS In this project, we are going to learn and build how to create a complete portfolio website with bootstrap using HTML and CSS. We will understand everything from scratch. 
+# Sell_Your_Gear
+This site is an e-commerce platform. where customers may trade and purchase secondhand musical instruments.
 
-## To execute this project just open index.html file in the browser.
+# Authors
+Md.Rakibul Kabir Khan
+Email: rakibulkabir77@gmail.com
+
+#Features
+Create Account
+Complete profile
+Check Resources
+add to cart
+Set Preference
+
+# Tools/framework used
+MySQL
+Html
+css
+javascript
